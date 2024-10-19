@@ -1,0 +1,14 @@
+ROUTINE Exercicios
+Exercicio1
+
+	Read "Digite o valor de x:", x
+	Read "Digite o valor de y:", y
+	
+	
+	Set Cont = 0
+	For a=x:1:y
+	{
+		if a#2=0 Write a_" é par", !
+		
+	} 
+

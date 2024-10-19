@@ -1,0 +1,10 @@
+ROUTINE Untitled7
+Exercicio7
+
+	Set nome = "Gabriel Cardoso Cirineu"
+	
+	w nome,!
+	
+	Write $Translate("Gabriel Cardoso Cirineu"," ","|"), !
+	
+	Write $Length("Gabriel Cardoso Cirineu")

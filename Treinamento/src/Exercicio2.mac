@@ -1,0 +1,16 @@
+ROUTINE Exercicio2
+Exercicio2
+
+	Read "Digite o valor de x:", x
+	Read "Digite o valor de y:", y
+	
+	
+	Set Cont = 0
+	For a=x:1:y
+	{
+		if a#2=0 Write a_" é par", !
+		if a#10=0 Set Cont = Cont + 1 
+		//if a#2=1 Write a_" é impar", !
+		w "Quantidade de pares"_Cont,!
+		
+	} 
