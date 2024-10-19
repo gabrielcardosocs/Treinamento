@@ -1,3 +1,5 @@
 ROUTINE HelloWord
 HelloWord
 	Write "Olá Mundo new", !
+
+	//teste
