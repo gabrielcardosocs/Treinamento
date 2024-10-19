@@ -3,5 +3,5 @@ Exercicio4 ;
 
 	Read "Digite o valor de num1 : ", num1
 	Read "Digite o valor de num2 : ", num2
-    Read "Digite o valor de num3 : ", num3
+    //Read "Digite o valor de num3 : ", num3
 	
