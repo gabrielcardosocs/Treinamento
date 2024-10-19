@@ -5,6 +5,9 @@ Exercicio7
 	
 	w nome,!
 	
-	Write $Translate("Gabriel Cardoso Cirineu"," ","|"), !
+	Write $Translate(nome," ","|"), !
 	
-	Write $Length("Gabriel Cardoso Cirineu")
+	Write $Length(nome) - ($Length(nome," ")-1), !
+	Write $Length(nome)
+	
+	
