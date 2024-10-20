@@ -1,7 +1,7 @@
 Class Treinamento.Data.Turma Extends (%Persistent, %XML.Adaptor)
 {
 
-Property Instrututor As Treinamento.Data.Instrutor [ SqlColumnNumber = 2 ];
+Property Instrutor As Treinamento.Data.Instrutor [ SqlColumnNumber = 2 ];
 
 Property DataInicio As %DataType [ SqlColumnNumber = 3 ];
 
@@ -18,7 +18,7 @@ Storage Default
 <Value>%%CLASSNAME</Value>
 </Value>
 <Value name="2">
-<Value>Instrututor</Value>
+<Value>Instrutor</Value>
 </Value>
 <Value name="3">
 <Value>DataInicio</Value>
